@@ -72,7 +72,11 @@ Your assignment will be marked based upon the following weights. See the [genera
 
 | Earned | Weight | Deliverable/Requirement | 
 | ------ | ---- | --------- |
-| **TBA** | 2 | `TrainWatchServices.cs` BLL service class methods|
+| **TBA** | 1 | `RailCarType.cs` Enitity class|
+| **TBA** | 2 | `RollingStock.cs` Enitity class|
+| **TBA** | 2 | `RollingStockServices.cs` BLL service class methods|
+| **TBA** | 1 | `RollingStockServices.cs` service class registration setup|
+| **TBA** | 1 | `TrainWatchServices.cs` BLL service class method|
 | **TBA** | 1 | `Query.cshtml` partial filter input are setup |
 | **TBA** | 2 | `Query.cshtml` dropdown list filter input are setup |
 | **TBA** | 2 | `Query.cshtml` display table setup |
@@ -82,7 +86,7 @@ Your assignment will be marked based upon the following weights. See the [genera
 | **TBA** | 2 | `Query.cshtml.cs` OnGet method !
 | **TBA** | 3 | successfully display approriate data according to input !
 | ------ | ---- | --------- |
-| **TBA** | **15** | **Total Weight** |
+| **TBA** | **20** | **Total Weight** |
 
 ----
 
