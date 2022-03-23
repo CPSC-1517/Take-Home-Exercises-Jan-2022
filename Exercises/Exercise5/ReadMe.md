@@ -55,3 +55,35 @@ Use the demos presented in class as a guide to achieving this. Get this part to 
 To ensure that your web application works, build and run your project.
 
 ![ERD](../Exercise4/TrainWatch.png)
+
+## Evaluation
+
+> ***NOTE:** Your code **must** compile. Solutions that do not compile will receive an automatic mark of zero (0).*
+>
+> If you are unable to get a portion of the assignment to compile, you should:
+>
+> - Comment out the non-compiling portion of code
+> - Identify the non-compiling portion in the **Incomplete Requirements** heading, noting the item's
+>   - File name (e.g.: "Account.cs")
+>   - Line number(s)
+>   - Compiler error number and general message
+
+Your assignment will be marked based upon the following weights. See the [general rubric](../../ReadMe.md#generalized-marking-rubric) for details.
+
+| Earned | Weight | Deliverable/Requirement | 
+| ------ | ---- | --------- |
+| **TBA** | 2 | `TrainWatchServices.cs` BLL service class methods|
+| **TBA** | 1 | `Query.cshtml` partial filter input are setup |
+| **TBA** | 2 | `Query.cshtml` dropdown list filter input are setup |
+| **TBA** | 2 | `Query.cshtml` display table setup |
+| **TBA** | 1 | `Query.cshtml.cs` partial filter OnPost method !
+| **TBA** | 1 | `Query.cshtml.cs` dropdown list  filter OnPost method !
+| **TBA** | 1 | `Query.cshtml.cs` Proper setup of dependency injection !
+| **TBA** | 2 | `Query.cshtml.cs` OnGet method !
+| **TBA** | 3 | successfully display approriate data according to input !
+| ------ | ---- | --------- |
+| **TBA** | **15** | **Total Weight** |
+
+----
+
+## Comments
