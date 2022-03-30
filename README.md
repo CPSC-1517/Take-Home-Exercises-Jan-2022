@@ -7,7 +7,7 @@
 1. [Exercise 3](./Exercises/Exercise3/ReadMe.md)
 1. [Exercise 4](./Exercises/Exercise4/ReadMe.md)
 1. [Exercise 5](./Exercises/Exercise5/ReadMe.md)
-   
+1. [Exercise 6](./Exercises/Exercise6/ReadMe.md)
 ## Submission of exercises/project
 
 Your source code must be submitted as per your instruction's direction. 
