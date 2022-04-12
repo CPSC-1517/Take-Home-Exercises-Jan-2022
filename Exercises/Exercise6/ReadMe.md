@@ -32,7 +32,7 @@ Query: RollingStockServices.GetByID
 
 ```
  RollingStock info = _context.RollingStocks
-                             .Where(x => x.ReportingMark.Equals(searcharg)
+                             .Where(x => x.ReportingMark.Equals(searcharg))
                              .FirstOrDefault();
 ```
 
