@@ -26,7 +26,7 @@ Add a button, called `New`, to the `Query.cshtml` page which will transfer conto
 
 Create a Razor Page called `CRUDPage.cshtml`. This page will be used to maintain the RollingStock database table. Maintenance will consist of a) adding new RollingStock; b) updating existing RollingStock; and c) delete a RollingStock. Create a form that will display all fields of the record. Use a select control for the RailCartype. Use a checkbox control for the InService. The ReportingMark control will be disabled if the RollingStock record exists (Update/Delete) but will be enabled if adding a new record. The Delete button must have a confirmation message attached to the button. Add a button to return to the `Query` page.
 
-Add appropriate service methods to your RollingStock services to a) obtain a specific RollingStock record (see supplied query), b) add a new record to the RollingStock table, c) update an existing record on the RollingStock table and d) remove an existing record from the RollingStock table.
+Add appropriate service methods to your RollingStock services to a) obtain a specific RollingStock record (see supplied query), b) add a new record to the RollingStock table, c) update an existing record on the RollingStock table and d) remove an existing record from active service on the RollingStock table bu setting the In-service to false.
 
 Query: RollingStockServices.GetByID
 
